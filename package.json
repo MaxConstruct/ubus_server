@@ -1,0 +1,21 @@
+{
+  "name": "ubus-service",
+  "version": "1.0.0",
+  "description": "rangsit university bus project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scotty",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parse": "^0.1.0",
+    "csv-express": "^1.2.2",
+    "express": "^4.17.1",
+    "json2csv": "^5.0.6",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1"
+  }
+}
